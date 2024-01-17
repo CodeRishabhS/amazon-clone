@@ -1,6 +1,8 @@
 # amazon-clone
 amazon clone project using HTML & CSS.
-open a project link below : https://coderishabhs.github.io/amazon-clone/
+
+
+  open a project link below : https://coderishabhs.github.io/amazon-clone/
 .
 Utilize Visual Studio Code, a powerful and versatile code editor, for an efficient and feature-rich coding experience. Boost productivity with its extensions,
 .
